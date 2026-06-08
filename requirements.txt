@@ -1,0 +1,15 @@
+streamlit
+bcrypt
+cerebras-cloud-sdk
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+torchvision
+pypdf
+python-docx
+python-pptx
+tavily-python
+python-dotenv
